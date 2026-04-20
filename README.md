@@ -41,7 +41,8 @@ This project presents an interactive E-Commerce Sales Dashboard built using Powe
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](ADD_YOUR_IMAGE_LINK_HERE)
+![Dashboard](<img width="1078" height="609" alt="image" src="https://github.com/user-attachments/assets/736f5349-0e0e-406d-b4a9-6feee6a5ec1b" />
+)
 
 ---
 
