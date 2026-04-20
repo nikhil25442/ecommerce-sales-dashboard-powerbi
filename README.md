@@ -41,15 +41,8 @@ This project presents an interactive E-Commerce Sales Dashboard built using Powe
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](<img width="1078" height="609" alt="image" src="https://github.com/user-attachments/assets/736f5349-0e0e-406d-b4a9-6feee6a5ec1b" />
+(<img width="1078" height="609" alt="image" src="https://github.com/user-attachments/assets/736f5349-0e0e-406d-b4a9-6feee6a5ec1b" />
 )
-
----
-
-## 🚀 How to Use
-1. Download the `.pbix` file  
-2. Open in Power BI Desktop  
-3. Use filters to explore data  
 
 ---
 
